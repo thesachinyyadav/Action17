@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<action17:website xmlns:action17="http://www.action17.org" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.action17.org action17.xsd">
+    <action17:project>
+        <action17:name>Empowerment for Gender Equality</action17:name>
+        <action17:description>Empowering women and promoting gender equality through education and advocacy.</action17:description>
+        <action17:goal>SDG 5: Gender Equality</action17:goal>
+        <action17:location>Global</action17:location>
+    </action17:project>
+    <action17:volunteer>
+        <action17:name>Alice Johnson</action17:name>
+        <action17:age>25</action17:age>
+        <action17:gender>Female</action17:gender>
+        <action17:country>United States</action17:country>
+    </action17:volunteer>
+</action17:website>
